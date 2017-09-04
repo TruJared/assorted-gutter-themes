@@ -4,8 +4,7 @@
 For use with <a href="https://github.com/SublimeLinter/SublimeLinter3" target="_blank">SublimeLinter3</a>.
 
 <h3>Included Themes</h3>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/bL1Ys"><a href="//imgur.com/bL1Ys" target="_blank">Assorted Gutter Themes</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+<a href="https://imgur.com/a/bL1Ys" target="_blank">Assorted Gutter Themes</a>
 
 <h3>Installation</h3>
 

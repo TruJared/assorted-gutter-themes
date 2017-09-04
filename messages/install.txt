@@ -1,0 +1,21 @@
+ASSORTED GUTTER THEMES
+
+==============================
+
+Thanks for downloading my first ever contribution to Sublime!!
+
+To use, simply navigate to the Command Pallet and find "SublimeLinter: Choose gutter theme". Find and select the theme you would like to use.
+
+Images of the themes can be found here: https://imgur.com/a/bL1Ys
+
+Feedback or questions: https://github.com/TruJared/assorted_gutter_themes/issues
+
+
+I hope you enjoy using this as much as I enjoyed creating it.
+
+Thanks,
+Jared T.
+http://www.trujared.com
+
+
+--- Special thanks to Iconfinder.com for the icons ---
