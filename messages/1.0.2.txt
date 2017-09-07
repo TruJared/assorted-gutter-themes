@@ -1,0 +1,3 @@
+==============================
+
+added other install options to README

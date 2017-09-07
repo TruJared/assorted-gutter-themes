@@ -1,21 +1,29 @@
-<h1>Assorted Gutter Themes</h1>
-<h4>various gutter themes for sublime text 3</h4>
+# Assorted Gutter Themes
+
+#### various gutter themes for sublime text 3
 
 For use with <a href="https://github.com/SublimeLinter/SublimeLinter3" target="_blank">SublimeLinter3</a>.
 
-<h3>Included Themes</h3>
+### Included Themes
 <a href="https://imgur.com/a/bL1Ys" target="_blank">Assorted Gutter Themes</a>
 
-<h3>Installation</h3>
+## Installation
 
-Super simple to install using <a href="https://packagecontrol.io/" target="_blank">Sublime Package Control</a>. 
+#### Super simple to install using <a href="https://packagecontrol.io/" target="_blank">Sublime Package Control</a>. 
 
 + Using Package Control search for and install <code>assorted gutter themes</code>.
+
+#### No package control, no problem
+
++ Dowload and extract the zip file or clone it to ../Packages/User
+
+#### To change the gutter theme
+
 + Open up the command pallet: <code>CMD + Shift + P</code> or <code>Ctrl + Shift + P</code> and type <code>gutter</code>.
 + Select <code>SublimeLInter: Choose gutter theme</code>.
 + Find and use the theme you want in the provided list.
 
-<h3>Thanks to:</h3>
+### Thanks to:
 <a href="https://www.iconfinder.com/" target="_blank">The Iconfinder team</a>
 
 Everyone who puts work into making the coding community great 💚
